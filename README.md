@@ -1,5 +1,7 @@
 # Open-Critical-Reviews
 
++ [Arxiv'2020] [FuxiCTR: An Open Benchmark for Click-Through Rate Prediction](https://arxiv.org/abs/2009.05794), by Jieming Zhu, Jinyang Liu, Shuai Yang, Qi Zhang, Xiuqiang He.
+  > Argument: Many new models for CTR prediction do not perform as expected compared to some classic ones.
 + [Arxiv'2020] [Neural Collaborative Filtering vs. Matrix Factorization Revisited](https://arxiv.org/abs/2005.09683), by Steffen Rendle, Walid Krichene, Li Zhang, John Anderson.
   > Argument: MLP in NCF does not outperform inner products in MF as reported.
 + [Arxiv'2020] [Empirical Analysis of Session-Based Recommendation Algorithms](https://arxiv.org/abs/1910.12781), by Malte Ludewig, Noemi Mauro, Sara Latifi, Dietmar Jannach.
