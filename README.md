@@ -24,3 +24,5 @@
 ## CV
 + [**Arxiv'2020**] A Metric Learning Reality Check
 
++ [**ECCV'2020**] GDumb: A Simple Approach that Questions Our Progress in Continual Learning
+
