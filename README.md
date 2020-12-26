@@ -17,6 +17,8 @@
   > Argument: Many deep models, including CMN, MCRec, CVAE, CDL, NCF and MVAE, do not perform better than simple baselines such as MostPopular, KNN baselines and SLIM.
 
 ## NLP
++ [**AAAI'2020**] A Critique of the Smooth Inverse Frequency Sentence Embeddings
+
 + [**ACL'2018**] Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms
 
 + [**ICLR'2017**] A Simple but Tough-to-Beat Baseline for Sentence Embeddings
